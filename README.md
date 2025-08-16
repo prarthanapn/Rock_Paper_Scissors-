@@ -55,18 +55,6 @@ Rock_Paper_Scissors/
 - **CSS3** - Styling and animations
 - **JavaScript** - Game logic and interactivity
 
-## 📱 Demo Video
-
-Watch how the game works: [Rock Paper Scissors Game Demo](https://drive.google.com/file/d/1your-demo-link-here/view?usp=sharing)
-
-## 🎯 Screenshots
-
-### Game Interface
-![Game Interface](https://via.placeholder.com/600x400/4CAF50/white?text=Game+Interface)
-
-### Game Result
-![Game Result](https://via.placeholder.com/600x400/2196F3/white?text=You+Win!)
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for any improvements!
